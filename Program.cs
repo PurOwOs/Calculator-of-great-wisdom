@@ -3,7 +3,8 @@
     Fun Calculator v1.3.0 by KachnozroutEU
     
     English version by: PurOwO 
-    
+    Other:
+    Date of creation: 21.02.2025.
 */
 
 using System;
