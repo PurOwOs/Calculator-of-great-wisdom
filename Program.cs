@@ -19,25 +19,25 @@ class Program
     static void Main()
     {
 
-        Console.WriteLine("Já jsem zcela normální pochybná aplikace");
-        Console.WriteLine("Co ode mì oèekáváte?\n");
+        Console.WriteLine("Im compleatly sane and normal aplication :3");
+        Console.WriteLine("What do you need from me?\n");
         Console.ReadLine();
-        Console.WriteLine("\nBlahopøeju! Máte skvìlou šanci ~1:<outOfBoundsValue> že budu dìlat pøesnì to!");
-        Console.WriteLine("\nProsím vyhnìte se používání písmen, èísel a ostatních ASCII znakù, nemusela bych tomu rozumìt");
-        Console.WriteLine("\nZaèneme?");
+        Console.WriteLine("\nCONGRATS! you have aproximatly ~1:<outOfBoundsValue> that you will follow MY instructions!");
+        Console.WriteLine("\nPleasseee,I dont understand ASCII. UwU");
+        Console.WriteLine("\nSo wana begin?");
         input = normalString(Console.ReadLine());
-        if (input != "ano") Console.WriteLine("Téhle odpovìdi moc nerozumím. Pøedpokládejme, že to bylo ano.");
+        if (input != "yes") Console.WriteLine("WELLL idk.... Eh whatever i start anyway.");
         else
         {
-            Console.WriteLine("To je duch!");
-            Console.WriteLine("Jen tak mimochodem: Když si nebudete vìdìt rady co se mnou, napište \"help\"");
+            Console.WriteLine("HUH... odd... thought i heard something");
+            Console.WriteLine("ANYWAY! if you need any asistance just type \"help\"");
             yesinp = true;
         }
-        Console.WriteLine("Tak tady to máte:");
-        Console.WriteLine("Vlastnì ne...");
-        Console.WriteLine("Zapomìla jsem co jste po mì prvnì chtìl...");
-        Console.WriteLine("Tak budu tøeba...");
-        Console.WriteLine("KALKULAÈKA\n\n");
+        Console.WriteLine("Here you go:");
+        Console.WriteLine("...");
+        Console.WriteLine("Actualy i forgor what you wanted... heh...");
+        Console.WriteLine("Mayyybeeee...");
+        Console.WriteLine("Calculator...?\n\n");
         while (true) loop();
 
 
