@@ -5,6 +5,11 @@
       "taskLabel": "task-Program",
       "appliesTo": "Program.cs",
       "type": "launch"
+    },
+    {
+      "taskLabel": "task-Calculator-of-great-wisdom",
+      "appliesTo": "/",
+      "type": "launch"
     }
   ]
 }
